@@ -82,10 +82,6 @@ int main()
 	cout << "Now the MemoryAddress1 is" << MemoryAddress1 << endl; /* It became the same memory address of the 3rd value in the array. Because arrays start with 0*/
 	cout << "End of this code \n" << endl;
 
-
-
-
-
 	/*
 	in a 32 or 64 bit system memory
 	Size of a
